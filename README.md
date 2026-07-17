@@ -30,6 +30,6 @@ production it lives on — from the React screen a user taps to the Terraform th
 
 #### Reach me
 
-- 🌐 https://portfolio-nine-rho-47.vercel.app
+- 🌐 https://nreza.com.bd
 - 💼 https://www.linkedin.com/in/nahid-reza-953379209/
 - ✉️ nahidreza99@gmail.com
