@@ -25,8 +25,8 @@ production it lives on — from the React screen a user taps to the Terraform th
 
 #### Now
 
-- **Fractional engineering** alongside a full-time role — a few teams at a time → **[portfolio ↗](https://portfolio-nine-rho-47.vercel.app)**
-- **Tearing down B2B problems in public** before I build them — scope, who's winning, what stopped me → **[/leads ↗](https://portfolio-nine-rho-47.vercel.app/leads)**
+- **Fractional engineering** alongside a full-time role — a few teams at a time → **[portfolio ↗](https://nreza.com.bd)**
+- **Tearing down B2B problems in public** before I build them — scope, who's winning, what stopped me → **[/leads ↗](https://nreza.com.bd/leads)**
 
 #### Reach me
 
